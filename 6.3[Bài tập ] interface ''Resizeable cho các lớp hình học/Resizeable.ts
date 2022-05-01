@@ -1,3 +1,3 @@
 export interface Resizeable{
-    resize(number:number):void
+    resize(percent:number):void
 }
